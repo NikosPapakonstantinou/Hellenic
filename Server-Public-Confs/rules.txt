@@ -1,0 +1,52 @@
+ _               _   _
+| |             | | | |                 ( )
+| |_ _   _ _ _  | | | |  _ _ _   _ _ _   _   _ _ _
+|     | |     | | | | | |     | | '_  | | | |  _ _|
+|  _  | | [ ] | | | | | | [ ] | | | | | | | | |
+| | | | |  _ _| | | | | |  _ _| | | | | | | | |
+| | | | | |_ _  | | | | | |     | | | | | | | |_ _
+|_| |_| |_ _ _| |_| |_| |_ _ _| |_| |_| |_| |_ _ _| @ 2014 RULES
+
+
+
+
+-= Rules
+
+- Apagoreyetai to flooding.
+- Apagoreyontai ta mass-messages kai mass-invites gia opoiodhpote logo.
+- Apagoreyontai oi diafhmiseis opoioudhpote eidous.
+- Apagoreyontai oi polaploi klonoi (pollaploi xrhstes ap' to idio pc), xwris thn adeia ths dioikhshs.
+- Apagoreyontai ta BOT's kai ta BNC's xwris thn egkrish tou administrator, tou ekastote server.
+
+
+-= Nick Register 
+
+/nickserv register password email
+
+Kata thn egrafh sas tha sas zitithei h epiveveosh tou email sas, me mia sxetikh entolh pou tha sas apostallei. Se periptosh pou dhlwsete lanthasmeno h pseytiko email, den tha mporesete na pragmatopoihsete thn egrafh sas sto Hellenic.
+
+
+-= Channel Register
+
+/chanserv register #channel password description
+
+
+-= Official Channels
+
+Chat Channel: #hellas
+Help Channel: #help
+IRC Oper's Channel: #gr-opers
+
+
+-= Contact
+
+Main: info@mirc.com.gr
+Support: support@mirc.com.gr
+Help: help@mirc.com.gr
+Advertisment: adv@mirc.com.gr
+
+
+
+
+Copyright @ Hellenic Team
+Last update: [Thurstday 2 September]
