@@ -1,0 +1,1 @@
+1) Installing auth-db web app, for controlling the bnc/bot applications from the users
