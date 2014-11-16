@@ -1,1 +1,5 @@
-1) Installing auth-db web app, for controlling the bnc/bot applications from the users
+1) Install auth-db web app, for controlling the bnc/bot applications from the users
+2) Intall Denorastats and magirc (web panel) from aetos.mirc.com.gr
+3) Make some changes on the code to make searchirc/netsplit bots to ignore the antictcpbot.cpp module and make them able to use the commands /links /map /list
+4) Search and find sites (sex/lesbian/gay) and make arrangements to host an irc channel on our network
+5)
