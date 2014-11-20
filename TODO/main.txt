@@ -2,5 +2,5 @@
 2) Make some changes on the code to make searchirc/netsplit bots to ignore the antictcpbot.cpp
 module and make them able to use the commands /links /map /list
 3) Search and find sites (sex/lesbian/gay) and make arrangements to host an irc channel on our network
-4) Make a rompa site
+4) Make a rompa site ( http://www.qdbs.org/news.php )
 5) 
