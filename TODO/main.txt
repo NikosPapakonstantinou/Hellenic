@@ -2,12 +2,11 @@
 
 2) Search and find sites (sex/lesbian/gay) and make arrangements to host an irc channel on our network
 
-3) Add ssl on port 6697
-
-4) #Lobby-eggdrops
+3) #Lobby-eggdrops
 
 
 
 Updates:
+Added -> ssl on port 6697
 Fixed -> Make some changes on the code to make searchirc/netsplit bots to ignore the antictcpbot.cpp
 module and make them able to use the commands /links /map /list
