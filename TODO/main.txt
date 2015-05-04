@@ -1,5 +1,6 @@
 1) Install auth-db web app, for controlling the bnc/bot applications from the users
 2) Search and find sites (sex/lesbian/gay) and make arrangements to host an irc channel on our network
+3) Add ssl on port 6697
 
 
 
