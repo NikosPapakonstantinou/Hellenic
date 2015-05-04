@@ -4,6 +4,7 @@
 
 3) #Lobby-eggdrops
 
+4) Add greek lang support
 
 
 Updates:
