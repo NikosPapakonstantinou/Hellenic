@@ -5,7 +5,7 @@
 |  _  | | [ ] | | | | | | [ ] | | | | | | | | |
 | | | | |  _ _| | | | | |  _ _| | | | | | | | |
 | | | | | |_ _  | | | | | |     | | | | | | | |_ _
-|_| |_| |_ _ _| |_| |_| |_ _ _| |_| |_| |_| |_ _ _| @ 2014 RULES
+|_| |_| |_ _ _| |_| |_| |_ _ _| |_| |_| |_| |_ _ _| @ 2015 RULES
 
 
 
@@ -17,19 +17,8 @@
 - Apagoreyontai oi diafhmiseis opoioudhpote eidous.
 - Apagoreyontai oi polaploi klonoi (pollaploi xrhstes ap' to idio pc), xwris thn adeia ths dioikhshs.
 - Apagoreyontai ta BOT's kai ta BNC's xwris thn egkrish tou administrator, tou ekastote server.
-
-
--= Nick Register 
-
-/nickserv register password email
-
-Kata thn egrafh sas tha sas zitithei h epiveveosh tou email sas, me mia sxetikh entolh pou tha sas apostallei. Se periptosh pou dhlwsete lanthasmeno h pseytiko email, den tha mporesete na pragmatopoihsete thn egrafh sas sto Hellenic.
-
-
--= Channel Register
-
-/chanserv register #channel password description
-
+- Apagoreyontai ta links pornografikou periexomenou kai diaforwn kerdoskopikwn eteriwn.
+- Me thn sundesh sas apodexeste olous tous kanonismous tou duktiou. 
 
 -= Official Channels
 
@@ -42,7 +31,7 @@ Help Channel: #help
 Main: info@mirc.com.gr
 Support: support@mirc.com.gr
 Help: help@mirc.com.gr
-Advertisment: adv@mirc.com.gr
+Advertisment: info@mirc.com.gr
 
 
 
