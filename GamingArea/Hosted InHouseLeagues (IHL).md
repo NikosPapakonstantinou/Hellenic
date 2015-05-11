@@ -1,5 +1,6 @@
 ### Server: chat.mirc.com.gr
 ### Author: ioh aka ext3
+### 2005-2015: Our bots are written in c/c+ in order to form a part of IRC Services like.They are working like Q/X/GameServ on the server: chat.mirc.com.gr
 
 #### Hosted InHouse Leagues (The whole history of IRC IHL)
 ##### I have put the biggest channels that passed into history which hosted with our services.
@@ -25,4 +26,3 @@
 - IDL irc.quakenet.org Dota1 (International IHL)
 - Dotagr irc.quakenet.org Dota1 (Greek IHL)
 - ++ missing some others,my old harddisk is broken
-
