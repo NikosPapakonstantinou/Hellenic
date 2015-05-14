@@ -1,10 +1,7 @@
 1) Install auth-db web app, for controlling the bnc/bot applications from the users
 
-2) Search and find sites (sex/lesbian/gay) and make arrangements to host an irc channel on our network
-
-3) #Lobby-eggdrops
-
 Updates:
+Added -> Anope external confirm
 Added -> language support for ca_ES.UTF-8 de_DE.UTF-8 el_GR.UTF-8 es_ES.UTF-8 fr_FR.UTF-8 hu_HU.UTF-8 it_IT.UTF-8 nl_NL.UTF-8 pl_PL.UTF-8 pt_PT.UTF-8 ru_RU.UTF-8 tr_TR.UTF-8
 Added -> ssl on port 6697
 Fixed -> Make some changes on the code to make searchirc/netsplit bots to ignore the antictcpbot.cpp
