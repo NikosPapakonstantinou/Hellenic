@@ -1,4 +1,5 @@
 1) Install auth-db web app, for controlling the bnc/bot applications from the users
+2) Class 2 ssl for registration.
 
 Updates:
 Added -> Anope external confirm
