@@ -1,5 +1,7 @@
 1) Install auth-db web app, for controlling the bnc/bot applications from the users
-2) Class 2 ssl for registration.
+2) Class 2 ssl > x01.mirc.com.gr
+3) Class 2 ssl > auth.mirc.com.gr
+4) Class 2 ssl > forum.mirc.com.gr
 
 Updates:
 Added -> Anope external confirm
