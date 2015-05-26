@@ -1,8 +1,3 @@
-1) Install auth-db web app, for controlling the bnc/bot applications from the users
-
-
-
-
 Webchat Bug to fix:
 1)Raw 900/931 goes to unhandle.
 [15:23:56] :x01.mirc.com.gr 931 urltest :Malicious or potentially unwanted softwares are not WELCOME here!
@@ -12,17 +7,19 @@ Webchat Bug to fix:
 <- JOIN #glc.academy
 -> :x01.mirc.com.gr 477 urltest #glc.academy :You need to be identified to a registered account to join this channel
 
-3) The client gets a crash most of times(after the page refresh).
-
-4)The nickname gets the color from the text area,split them.
-It's adds the color from mode=color to < > on your own text.Split them like parenthesis=another-color
-
-
-
+Webchat TODO List:
+-Ignore Command implementation
+-Banlist ui
+-Sounds on highlight/prvmsg & game sound
+-Emotes svg formated for subs only
+-Buttons over the chat bar
+-Fkeys as shortcuts of buttons 
+-Translate all of these stuff seperate to files
+-Support more channels for vip stars
 
 Updates:
-Added -> Class 2 ssl to mirc.com.gr/forum.mirc.com.gr/auth.mirc.com.gr/webchat.mirc.com.gr
-Added -> Anope external confirm
+Added -> Class 2 ssl to *.mirc.com.gr
+Added -> Anope external email confirm
 Added -> language support for ca_ES.UTF-8 de_DE.UTF-8 el_GR.UTF-8 es_ES.UTF-8 fr_FR.UTF-8 hu_HU.UTF-8 it_IT.UTF-8 nl_NL.UTF-8 pl_PL.UTF-8 pt_PT.UTF-8 ru_RU.UTF-8 tr_TR.UTF-8
 Added -> ssl on port 6697
 Fixed -> Make some changes on the code to make searchirc/netsplit bots to ignore the antictcpbot.cpp
