@@ -10,6 +10,7 @@ Webchat Bug to fix:
 Webchat TODO List:
 -Ignore Command implementation
 -Banlist ui
+-dpi-based scaling
 -Sounds on highlight/prvmsg & game sound
 -Emotes svg formated for subs only
 -Buttons over the chat bar
