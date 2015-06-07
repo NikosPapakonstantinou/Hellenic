@@ -4,6 +4,8 @@ Webchat TODO List:
 -Sounds on highlight/prvmsg & game sound
 -Emotes svg formated for subs only
 -Support more channels for vip stars
+-We will replace our webchat with the new featured irc client which contains a custom version of sdk.
+Our new featured irc client supports animated emotes,it has mobile version and better 3d-accelator graphics. 
 
 Webchat updates:
 Added -> Banlist ui
