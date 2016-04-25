@@ -5,6 +5,7 @@
 #### Hosted InHouse Leagues (The whole history of IRC IHL)
 ##### I have put the biggest channels that passed into history which hosted with our services.
 ######The format of the following list: Channel/IRC Server/Game/Description
+- IHLGaming chat.mirc.com.gr LOL/DOTA2/CSGO (International League)
 - GLC chat.mirc.com.gr LOL (Greek LoL Championship)
 - GML chat.mirc.com.gr LOL (Greek Master League)
 - IWDL chat.mirc.com.gr Dota2 (International League by ComeWithMe)
